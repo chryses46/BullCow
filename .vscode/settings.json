@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"/Users/danielfrank/Documents/BullCow/.git": true,
+		"/Users/danielfrank/Documents/BullCow/.vscode": true,
+		"/Users/danielfrank/Documents/BullCow/Content": true,
+		"/Users/danielfrank/Documents/BullCow/Intermediate": true,
+		"/Users/danielfrank/Documents/BullCow/Saved": true
+	}
+}
